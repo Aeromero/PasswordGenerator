@@ -53,4 +53,7 @@ function getRandomNumber() {
 
 }
 
+function UserInput(ps) {
+  document.getElementById("password").textContent = ps;
 
+}
